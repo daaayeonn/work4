@@ -1,0 +1,13 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" data-bbox="-15.5 -10.5 220 220" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 200" height="200" width="190" data-type="ugc" role="presentation" aria-hidden="true" aria-label="">
+    <g>
+        <g clip-path="url(#012dc894-f368-4898-9b33-3cbd66258878_comp-lte8dppi)">
+            <path stroke="#FFFFFF" opacity=".5" d="M204.5 99.5c0 60.751-49.249 110-110 110s-110-49.249-110-110 49.249-110 110-110 110 49.249 110 110z" fill="none"></path>
+            <path stroke="#FFFFFF" opacity=".5" d="M106.5 99.5c0 6.627-5.373 12-12 12s-12-5.373-12-12 5.373-12 12-12 12 5.373 12 12z" fill="none"></path>
+        </g>
+        <defs fill="none">
+            <clipPath id="012dc894-f368-4898-9b33-3cbd66258878_comp-lte8dppi">
+                <path fill="#ffffff" d="M190 0v200H0V0h190z"></path>
+            </clipPath>
+        </defs>
+    </g>
+</svg>
