@@ -578,6 +578,9 @@
 .sc-about .group-planet .grid-area .planet-area .planet1 {
   transform: translateY(-44%);
 }
+.sc-about .group-planet .grid-area .planet-area .planet1 .planet-img {
+  width: 22.6vw;
+}
 .sc-about .group-planet .grid-area .planet-area .planet1 .point-wrap {
   bottom: 4.9vw;
   left: 21.9vw;
@@ -593,6 +596,7 @@
   left: 39.8vw;
 }
 .sc-about .group-planet .grid-area .planet-area .planet2 .planet-img {
+  width: 6.15vw;
   transform: rotate(144deg);
 }
 .sc-about .group-planet .grid-area .planet-area .planet2 .point-wrap {
@@ -611,6 +615,7 @@
   transform: translateY(-4.69vw);
 }
 .sc-about .group-planet .grid-area .planet-area .planet3 .planet-img {
+  width: 16.93vw;
   transform: rotate(100deg);
 }
 .sc-about .group-planet .grid-area .planet-area .planet3 .point-wrap {
@@ -630,6 +635,7 @@
   transform: translateY(-10.42vw);
 }
 .sc-about .group-planet .grid-area .planet-area .planet4 .planet-img {
+  width: 25.7vw;
   transform: rotate(-85deg);
 }
 .sc-about .group-planet .grid-area .planet-area .planet4 .point-wrap {
@@ -648,6 +654,9 @@
   transform: translateY(-2.19vw);
   width: 4.2vw;
 }
+.sc-about .group-planet .grid-area .planet-area .planet5 .planet-img {
+  width: 4.20vw;
+}
 .sc-about .group-planet .grid-area .planet-area .planet5 .point-wrap {
   bottom: -2.6vw;
   right: -4.7vw;
@@ -663,6 +672,9 @@
   left: 138.2vw;
   transform: translateY(-9.48vw);
   width: 33.3vw;
+}
+.sc-about .group-planet .grid-area .planet-area .planet6 .planet-img {
+  width: 25.94vw;
 }
 .sc-about .group-planet .grid-area .planet-area .planet6 .point-wrap {
   top: -1.8vw;
@@ -680,6 +692,9 @@
   transform: translateY(-14.58vw);
   width: 39.8vw;
 }
+.sc-about .group-planet .grid-area .planet-area .planet7 .planet-img {
+  width: 36.25vw;
+}
 .sc-about .group-planet .grid-area .planet-area .planet7 .point-wrap {
   bottom: 1.8vw;
   right: 2.5vw;
@@ -696,6 +711,9 @@
   transform: translateY(-5.73vw);
   width: 21.6vw;
 }
+.sc-about .group-planet .grid-area .planet-area .planet8 .planet-img {
+  width: 17.76vw;
+}
 .sc-about .group-planet .grid-area .planet-area .planet8 .point-wrap {
   top: -0.8vw;
   right: 2.5vw;
@@ -711,6 +729,9 @@
   left: 258.1vw;
   transform: translateY(-1.30vw);
   width: 8.8vw;
+}
+.sc-about .group-planet .grid-area .planet-area .planet9 .planet-img {
+  width: 6.67vw;
 }
 .sc-about .group-planet .grid-area .planet-area .planet9 .point-wrap {
   bottom: -1.3vw;
@@ -987,8 +1008,14 @@
 .sc-overview .content .text-area1 .text-wrap {
   transform: translateX(-100%);
 }
+.sc-overview .content .text-area1 .text-wrap .video-mask video {
+  clip-path: url(#clip-comp-lte8dpvi17);
+}
 .sc-overview .content .text-area1 .text-wrap .video-mask svg {
   height: 11.46vw;
+}
+.sc-overview .content .text-area1 .text-wrap .video-mask svg text {
+  font-size: 11.98vw;
 }
 .sc-overview .content .text-area2 .text-wrap .desc {
   width: 28.85vw;
@@ -1007,8 +1034,14 @@
 .sc-overview .content .text-area2 .text-wrap .video-mask {
   padding: 0 20px;
 }
+.sc-overview .content .text-area2 .text-wrap .video-mask video {
+  clip-path: url(#clip-comp-lth96etm6);
+}
 .sc-overview .content .text-area2 .text-wrap .video-mask svg {
   height: 13.02vw;
+}
+.sc-overview .content .text-area2 .text-wrap .video-mask svg text {
+  font-size: 14.81vw;
 }
 .sc-overview .content .text-area2 .text-wrap .desc {
   width: 25.89vw;
@@ -1024,9 +1057,15 @@
   align-items: flex-end;
   transform: translateX(100%);
 }
+.sc-overview .content .text-area3 .text-wrap .video-mask video {
+  clip-path: url(#clip-comp-lth99d9b);
+}
 .sc-overview .content .text-area3 .text-wrap .video-mask svg {
   height: 13.02vw;
   padding: 0 40px;
+}
+.sc-overview .content .text-area3 .text-wrap .video-mask svg text {
+  font-size: 13.76vw;
 }
 .sc-overview .content .text-area3 .text-wrap .desc {
   width: 17.4vw;
@@ -1039,8 +1078,14 @@
 .sc-overview .content .text-area4 .text-wrap {
   transform: translateX(100%);
 }
+.sc-overview .content .text-area4 .text-wrap .video-mask video {
+  clip-path: url(#clip-comp-lte8dpvp2);
+}
 .sc-overview .content .text-area4 .text-wrap .video-mask svg {
   height: 14.06vw;
+}
+.sc-overview .content .text-area4 .text-wrap .video-mask svg text {
+  font-size: 16.68vw;
 }
 .sc-overview .content .text-area3 .text-wrap .desc {
   width: 18vw;
